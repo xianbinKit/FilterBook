@@ -6,3 +6,11 @@
 
 ![](/assets/sun.png)
 
+SCN 球体，反射，Text
+
+http://samtinastudio.blogspot.fr/2014/09/scenekit-tutorial-part-3-geometry-and.html
+
+![](/assets/scnexample.png)
+
+
+
