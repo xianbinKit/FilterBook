@@ -8,9 +8,13 @@
 
 SCN 球体，反射，Text
 
-http://samtinastudio.blogspot.fr/2014/09/scenekit-tutorial-part-3-geometry-and.html
+[http://samtinastudio.blogspot.fr/2014/09/scenekit-tutorial-part-3-geometry-and.html](http://samtinastudio.blogspot.fr/2014/09/scenekit-tutorial-part-3-geometry-and.html)
 
 ![](/assets/scnexample.png)
 
 
+
+SHAder 细胞例子
+
+http://qiita.com/shu223/items/7ed4efd54d03f0babbe0
 
