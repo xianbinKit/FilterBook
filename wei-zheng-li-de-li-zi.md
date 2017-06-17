@@ -16,9 +16,19 @@ SHAder 细胞例子
 
 [http://qiita.com/shu223/items/7ed4efd54d03f0babbe0](http://qiita.com/shu223/items/7ed4efd54d03f0babbe0)
 
-
-
 很多WEBGL例子
 
-http://www.techbrood.com
+[http://www.techbrood.com](http://www.techbrood.com)
+
+
+
+SceneKit 显示Dae的3D模型，改变颜色等。
+
+https://github.com/JalynnXi/SceneKit3DShow
+
+
+
+SceneKit给3D模型加动画
+
+https://github.com/JalynnXi/SceneKitRobotAnimation
 
